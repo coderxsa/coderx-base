@@ -41,7 +41,7 @@ global.author = "coderx"
 > pkg install ffmpeg && pkg install libwebp
 > pkg install nodejs
 > git clone https://github.com/coderxsa/coderx-base
-> cd Base-Bot-Simple
+> cd Bcoderx-base
 > npm start
 ```
 
